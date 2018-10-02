@@ -1,15 +1,13 @@
 # SNOOPY 
 An Android app to extract text from camera and Analyze the Mood Of Text Using Tone  Analyzer.
 
-## Download
-Download app from [here](https://github.com/DevipriyaSarkar/OCR-Reader/releases).
-
 ## Screenshots
-<img src="screenshots/screenshot1.png" width="360" alt="Main Screen" >
+<img src="screenshots/screenshot1.JPEG" width="360" alt="Main Screen" >
 
 <img src="screenshots/screenshot2.JPEG" width="360" alt="Text Converted Screen" >
 
 
 <img src="screenshots/screenshot3.JPEG" width="360" alt="Text Converted Screen" >
-<img src="screenshots/screenshot4.JPEG" width="360" alt="MOOD Analyzed" >## License
+<img src="screenshots/screenshot4.JPEG" width="360" alt="MOOD Analyzed" >
+## License
 The content of this repository is licensed under [S.K.I.T LICENSE](LICENSE).
